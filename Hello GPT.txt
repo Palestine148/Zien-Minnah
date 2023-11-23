@@ -1,0 +1,18 @@
+Hello GPT
+I want a 3-page website from you that talks about web development
+The topic is the importance of the site, its future, the tools used to build it, and the business opportunity
+
+the website consist only from html and internal CSS 
+
+the topic of HTML is only this tags :
+p , h1 , h2, h3, hr , video , image, a ,href , table ,list ,pre , title 
+
+the topic of CSS is only this :
+color ,background-color, font-size , font-family, text-align , direction , width , height , margin , padding , border
+
+the website consist of 3 or 4 page in arabic language with good style 
+
+
+
+
+the main page it's a primitive page, please regenarate it with more info and more style
